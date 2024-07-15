@@ -12,8 +12,7 @@ tensorflow
 talib
 您可以使用pip安装这些库：
 
-sh
-复制代码
+
 pip install numpy pandas scikit-learn tensorflow talib
 数据准备
 加载数据：
